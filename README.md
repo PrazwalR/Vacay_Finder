@@ -28,18 +28,14 @@ It uses Google's **Gemini API** and Python to suggest personalized travel destin
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository:
+### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/VacayFinder.git
+git clone https://github.com/PrazwalR/VacayFinder.git
 ````
 
-### 2️⃣ Install Dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
-### 3️⃣ Set up your Gemini API key:
+### Set up your Gemini API key:
 
 * Get your API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
 * Create a `.env` file and add:
@@ -48,7 +44,7 @@ pip install -r requirements.txt
   GEMINI_API_KEY=your-api-key-here
   ```
 
-### 4️⃣ Run the Program:
+### Run the Program:
 
 ```bash
 python app.py
@@ -56,11 +52,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots or a demo video GIF here if possible!*
-
----
 
 ## 🤝 Contributing
 
