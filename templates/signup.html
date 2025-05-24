@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sign Up - Travel Bucket List</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<body>
+  <div class="auth-page-container">
+    <div class="logo-login">
+      <h2><span>VacayFinder</span></h2>
+    </div>
+    <div class="form-container">
+      <h2>Sign Up</h2>
+      <form id="signupForm">
+      <input id="signupUser" placeholder="Username" required="" type="text"/>
+      <input id="signupEmail" placeholder="Email" required="" type="email"/>
+      <input id="signupPass" placeholder="Password" required="" type="password"/>
+      <button type="submit">Sign Up</button>
+      </form><br>
+      <p>Already have an account? <a href="{{ url_for('login') }}">Login here</a></p>
+      <div class="message" id="signupMessage"></div>
+    </div>
+  </div>
+<script>
+    const form = document.getElementById('signupForm');
+    const message = document.getElementById('signupMessage');
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const username = document.getElementById('signupUser').value.trim();
+      const email = document.getElementById('signupEmail').value.trim();
+      const password = document.getElementById('signupPass').value;
+
+      if (!username || !email || !password) {
+        message.textContent = 'Please fill out all fields!';
+        message.style.color = 'salmon';
+        return;
+      }
+
+      localStorage.setItem('username', username);
+      localStorage.setItem('email', email);
+      localStorage.setItem('password', password);
+
+      message.textContent = 'Signup successful! Redirecting to login...';
+      message.style.color = 'lightgreen';
+
+      setTimeout(() => {
+        window.location.href = "{{ url_for('login') }}";
+      }, 1500);
+    });
+  </script>
+</body>
+</html>

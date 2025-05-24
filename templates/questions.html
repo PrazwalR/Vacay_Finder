@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VacayFinder - Answer a Few Questions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <span>VacayFinder</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="{{ url_for('index') }}">Home</a></li>
+            <li><a href="#">Destinations</a></li>
+            <li><a href="{{ url_for('about') }}">About</a></li>
+            <li><a href="{{ url_for('contact') }}">Contact</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="{{ url_for('login') }}"><button class="btn login">Log In</button></a>
+            <a href="{{ url_for('signup') }}"><button class="btn signup">Sign Up</button></a>
+        </div>
+    </nav>
+
+    <div class="questionnaire-container">
+        <div class="progress-bar">
+            <div class="progress" id="progress"></div>
+            <div class="step active"><span>1</span></div>
+            <div class="step"><span>2</span></div>
+            <div class="step"><span>3</span></div>
+            <div class="step"><span>4</span></div>
+            <div class="step"><span>5</span></div>
+            <div class="step"><span>6</span></div>
+        </div>
+
+        <form id="vacationForm">
+            <div class="question active" data-step="1">
+                <h2>Where are you traveling from?</h2>
+                <div class="dropdown-container">
+                    <select id="currentLocation" name="currentLocation" required>
+                        <option value="" disabled selected>Select your current city</option>
+                    </select>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="form-navigation">
+                    <button type="button" class="btn next">Next <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="question" data-step="2">
+                <h2>How far are you willing to travel?</h2>
+                <div class="dropdown-container">
+                    <select id="distance" name="distance" required>
+                        <option value="" disabled selected>Select distance</option>
+                        <option value="100">Nearby (100km)</option>
+                        <option value="300">Regional (300km)</option>
+                        <option value="500">State-wide (500km)</option>
+                        <option value="1000">National (1000km+)</option>
+                    </select>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="form-navigation">
+                    <button type="button" class="btn prev"><i class="fas fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn next">Next <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="question" data-step="3">
+                <h2>What kind of weather do you prefer?</h2>
+                <div class="dropdown-container">
+                    <select id="weather" name="weather" required>
+                        <option value="" disabled selected>Select weather preference</option>
+                        <option value="cool">Cool/Cold (10-20°C)</option>
+                        <option value="moderate">Moderate (20-30°C)</option>
+                        <option value="hot">Warm/Hot (30°C+)</option>
+                        <option value="tropical">Tropical</option>
+                        <option value="any">Any Weather (I'm flexible)</option>
+                    </select>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="form-navigation">
+                    <button type="button" class="btn prev"><i class="fas fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn next">Next <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="question" data-step="4">
+                <h2>What type of activities interest you?</h2>
+                <div class="dropdown-container">
+                    <select id="activities" name="activities" required>
+                        <option value="" disabled selected>Select activity type</option>
+                        <option value="historical">Historical</option>
+                        <option value="cultural">Cultural</option>
+                        <option value="beaches">Beaches</option>
+                        <option value="hills">Hills</option>
+                        <option value="adventure">Adventure</option>
+                        <option value="wildlife">Wildlife</option>
+                        <option value="spiritual">Spiritual</option>
+                        <option value="shopping">Shopping</option>
+                    </select>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="form-navigation">
+                    <button type="button" class="btn prev"><i class="fas fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn next">Next <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="question" data-step="5">
+                <h2>Who are you traveling with?</h2>
+                <div class="dropdown-container">
+                    <select id="companion" name="companion" required>
+                        <option value="" disabled selected>Select travel companion</option>
+                        <option value="solo">Solo</option>
+                        <option value="couple">Couple</option>
+                        <option value="family">Family</option>
+                        <option value="friends">Friends</option>
+                    </select>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="form-navigation">
+                    <button type="button" class="btn prev"><i class="fas fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn next">Next <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="question" data-step="6">
+                <h2>Upload a photo that matches your ideal destination</h2>
+                <div class="dropdown-container">
+                    <input type="file" id="imageUpload" name="image" accept="image/*" required />
+                </div>
+                <div class="form-navigation">
+                    <button type="button" class="btn prev"><i class="fas fa-arrow-left"></i> Previous</button>
+                    <button type="submit" class="btn submit">Find My Destinations <i class="fas fa-search-location"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>VacayFinder</h3>
+                <p>Making vacation planning simple and personalized since 2023.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="{{ url_for('index') }}">Home</a></li>
+                    <li><a href="#">Destinations</a></li>
+                    <li><a href="{{ url_for('about') }}">About Us</a></li>
+                    <li><a href="{{ url_for('contact') }}">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p><i class="fas fa-envelope"></i> contact@vacayfinder.com</p>
+                <p><i class="fas fa-phone"></i> +91 9392585884</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2023 VacayFinder. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

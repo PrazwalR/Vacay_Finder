@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Login - Travel Bucket List</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<body>
+  
+  <div class="auth-page-container">
+    <div class="logo-login">
+      <h2><span>VacayFinder</span></h2>
+    </div>
+    <div class="form-container">
+      
+      <h2>Login</h2>
+      <form id="loginForm">
+      <input id="loginUser" placeholder="Username" required="" type="text"/>
+      <input id="loginPass" placeholder="Password" required="" type="password"/>
+      <button type="submit">Login</button>
+      </form><br>
+      <p>Don't have an account? <a href="{{ url_for('signup') }}">Sign up here</a></p>
+      <div class="message" id="loginMessage"></div>
+    </div>
+  </div>
+<script>
+    const form = document.getElementById('loginForm');
+    const message = document.getElementById('loginMessage');
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const username = document.getElementById('loginUser').value.trim();
+      const password = document.getElementById('loginPass').value;
+
+      const storedUsername = localStorage.getItem('username');
+      const storedPassword = localStorage.getItem('password');
+
+      if (username === storedUsername && password === storedPassword) {
+        message.textContent = 'Login successful! Redirecting to Home...';
+        message.style.color = 'lightgreen';
+
+        sessionStorage.setItem('username', username);
+
+        setTimeout(() => {
+          window.location.href = "{{ url_for('index') }}";
+        }, 1500);
+      } else {
+        message.textContent = 'Incorrect username or password!';
+        message.style.color = 'salmon';
+      }
+    });
+  </script>
+</body>
+</html>

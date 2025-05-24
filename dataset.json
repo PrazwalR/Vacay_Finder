@@ -1,0 +1,1939 @@
+[
+  {
+    "name": "Agra",
+    "location": {
+      "latitude": 27.1767,
+      "longitude": 78.0081
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 200,
+    "weather": "hot",
+    "activities": ["historical", "tourism", "family"],
+    "food": ["Mughlai cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?tajmahal"
+  },
+  {
+    "name": "Ahmedabad",
+    "location": {
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    "nearest_major_city": "Gandhinagar",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "shopping", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ahmedabad"
+  },
+  {
+    "name": "Aizawl",
+    "location": {
+      "latitude": 23.7271,
+      "longitude": 92.7176
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 500,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Mizo cuisine", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?aizawl"
+  },
+  {
+    "name": "Ajmer",
+    "location": {
+      "latitude": 26.4499,
+      "longitude": 74.6399
+    },
+    "nearest_major_city": "Jaipur",
+    "distance_from_city_km": 130,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ajmer"
+  },
+  {
+    "name": "Alappuzha (Alleppey)",
+    "location": {
+      "latitude": 9.4981,
+      "longitude": 76.3388
+    },
+    "nearest_major_city": "Kochi",
+    "distance_from_city_km": 60,
+    "weather": "tropical",
+    "activities": ["backwaters", "lakes", "family"],
+    "food": ["Kerala cuisine", "vegetarian", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?alleppey"
+  },
+  {
+    "name": "Amritsar",
+    "location": {
+      "latitude": 31.6340,
+      "longitude": 74.8723
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 230,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Punjabi cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?goldentemple"
+  },
+  {
+    "name": "Andaman & Nicobar Islands",
+    "location": {
+      "latitude": 11.7401,
+      "longitude": 92.6586
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 1200,
+    "weather": "tropical",
+    "activities": ["beaches", "adventure", "family"],
+    "food": ["seafood", "Indian cuisine"],
+    "image_url": "https://source.unsplash.com/1600x900/?andaman"
+  },
+  {
+    "name": "Aurangabad",
+    "location": {
+      "latitude": 19.8762,
+      "longitude": 75.3433
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 330,
+    "weather": "hot",
+    "activities": ["historical", "tourism", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?aurangabad"
+  },
+  {
+    "name": "Badami",
+    "location": {
+      "latitude": 15.9145,
+      "longitude": 75.6768
+    },
+    "nearest_major_city": "Hubli",
+    "distance_from_city_km": 100,
+    "weather": "hot",
+    "activities": ["historical", "tourism", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?badami"
+  },
+  {
+    "name": "Bandhavgarh National Park",
+    "location": {
+      "latitude": 23.6967,
+      "longitude": 80.9681
+    },
+    "nearest_major_city": "Jabalpur",
+    "distance_from_city_km": 160,
+    "weather": "moderate",
+    "activities": ["wildlife", "adventure", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bandhavgarh"
+  },
+  {
+    "name": "Bangalore",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 350,
+    "weather": "moderate",
+    "activities": ["shopping", "technology", "family"],
+    "food": ["Karnataka cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bangalore"
+  },
+  {
+    "name": "Barmer",
+    "location": {
+      "latitude": 25.7463,
+      "longitude": 71.3924
+    },
+    "nearest_major_city": "Jodhpur",
+    "distance_from_city_km": 200,
+    "weather": "hot",
+    "activities": ["desert", "cultural", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?barmer"
+  },
+  {
+    "name": "Bhagalpur",
+    "location": {
+      "latitude": 25.2445,
+      "longitude": 86.9718
+    },
+    "nearest_major_city": "Patna",
+    "distance_from_city_km": 220,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Bihari cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bhagalpur"
+  },
+  {
+    "name": "Bhavnagar",
+    "location": {
+      "latitude": 21.7645,
+      "longitude": 72.1519
+    },
+    "nearest_major_city": "Ahmedabad",
+    "distance_from_city_km": 190,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bhavnagar"
+  },
+  {
+    "name": "Bhopal",
+    "location": {
+      "latitude": 23.2599,
+      "longitude": 77.4126
+    },
+    "nearest_major_city": "Indore",
+    "distance_from_city_km": 190,
+    "weather": "moderate",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bhopal"
+  },
+  {
+    "name": "Bhubaneswar",
+    "location": {
+      "latitude": 20.2961,
+      "longitude": 85.8245
+    },
+    "nearest_major_city": "Cuttack",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Odia cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bhubaneswar"
+  },
+  {
+    "name": "Bikaner",
+    "location": {
+      "latitude": 28.0229,
+      "longitude": 73.3119
+    },
+    "nearest_major_city": "Jaipur",
+    "distance_from_city_km": 330,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bikaner"
+  },
+  {
+    "name": "Bodh Gaya",
+    "location": {
+      "latitude": 24.6951,
+      "longitude": 84.9910
+    },
+    "nearest_major_city": "Patna",
+    "distance_from_city_km": 110,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Bihari cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?bodhgaya"
+  },
+  {
+    "name": "Chandigarh",
+    "location": {
+      "latitude": 30.7333,
+      "longitude": 76.7794
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 250,
+    "weather": "moderate",
+    "activities": ["shopping", "cultural", "family"],
+    "food": ["Punjabi cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?chandigarh"
+  },
+  {
+    "name": "Cherrapunji",
+    "location": {
+      "latitude": 25.3005,
+      "longitude": 91.5822
+    },
+    "nearest_major_city": "Shillong",
+    "distance_from_city_km": 50,
+    "weather": "rainy",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Northeast cuisine", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?cherrapunji"
+  },
+  {
+    "name": "Chennai",
+    "location": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 350,
+    "weather": "hot",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Tamil cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?chennai"
+  },
+  {
+    "name": "Chidambaram",
+    "location": {
+      "latitude": 11.3990,
+      "longitude": 79.6956
+    },
+    "nearest_major_city": "Pondicherry",
+    "distance_from_city_km": 70,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?chidambaram"
+  },
+  {
+    "name": "Chittorgarh",
+    "location": {
+      "latitude": 24.8888,
+      "longitude": 74.6269
+    },
+    "nearest_major_city": "Udaipur",
+    "distance_from_city_km": 110,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?chittorgarh"
+  },
+  {
+    "name": "Coimbatore",
+    "location": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 350,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?coimbatore"
+  },
+  {
+    "name": "Coorg",
+    "location": {
+      "latitude": 12.3375,
+      "longitude": 75.8069
+    },
+    "nearest_major_city": "Mysore",
+    "distance_from_city_km": 120,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?coorg"
+  },
+  {
+    "name": "Cuttack",
+    "location": {
+      "latitude": 20.4625,
+      "longitude": 85.8830
+    },
+    "nearest_major_city": "Bhubaneswar",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Odia cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?cuttack"
+  },
+  {
+    "name": "Dalhousie",
+    "location": {
+      "latitude": 32.5330,
+      "longitude": 75.9180
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 300,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?dalhousie"
+  },
+  {
+    "name": "Darjeeling",
+    "location": {
+      "latitude": 27.0360,
+      "longitude": 88.2627
+    },
+    "nearest_major_city": "Siliguri",
+    "distance_from_city_km": 70,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Nepali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?darjeeling"
+  },
+  {
+    "name": "Dehradun",
+    "location": {
+      "latitude": 30.3165,
+      "longitude": 78.0322
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 250,
+    "weather": "moderate",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?dehradun"
+  },
+  {
+    "name": "Delhi",
+    "location": {
+      "latitude": 28.7041,
+      "longitude": 77.1025
+    },
+    "nearest_major_city": "Gurgaon",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "shopping", "family"],
+    "food": ["North Indian cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?delhi"
+  },
+  {
+    "name": "Dhanaulti",
+    "location": {
+      "latitude": 30.4750,
+      "longitude": 78.0711
+    },
+    "nearest_major_city": "Dehradun",
+    "distance_from_city_km": 60,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?dhanaulti"
+  },
+  {
+    "name": "Dharamshala",
+    "location": {
+      "latitude": 32.2190,
+      "longitude": 76.3234
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 250,
+    "weather": "cool",
+    "activities": ["hills", "spiritual", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?dharamshala"
+  },
+  {
+    "name": "Dwarka",
+    "location": {
+      "latitude": 22.2403,
+      "longitude": 68.9686
+    },
+    "nearest_major_city": "Jamnagar",
+    "distance_from_city_km": 140,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?dwarka"
+  },
+  {
+    "name": "Ellora Caves",
+    "location": {
+      "latitude": 20.0264,
+      "longitude": 75.1792
+    },
+    "nearest_major_city": "Aurangabad",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?elloracaves"
+  },
+  {
+    "name": "Gangtok",
+    "location": {
+      "latitude": 27.3389,
+      "longitude": 88.6065
+    },
+    "nearest_major_city": "Siliguri",
+    "distance_from_city_km": 120,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Nepali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?gangtok"
+  },
+  {
+    "name": "Gandhinagar",
+    "location": {
+      "latitude": 23.2156,
+      "longitude": 72.6369
+    },
+    "nearest_major_city": "Ahmedabad",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?gandhinagar"
+  },
+  {
+    "name": "Gokarna",
+    "location": {
+      "latitude": 14.5500,
+      "longitude": 74.3167
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 450,
+    "weather": "tropical",
+    "activities": ["beaches", "spiritual", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?gokarna"
+  },
+  {
+    "name": "Golconda Fort",
+    "location": {
+      "latitude": 17.3833,
+      "longitude": 78.4011
+    },
+    "nearest_major_city": "Hyderabad",
+    "distance_from_city_km": 10,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Hyderabadi cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?golcondafort"
+  },
+  {
+    "name": "Goa",
+    "location": {
+      "latitude": 15.2993,
+      "longitude": 74.1240
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 600,
+    "weather": "tropical",
+    "activities": ["beaches", "adventure", "family"],
+    "food": ["Goan cuisine", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?goa"
+  },
+  {
+    "name": "Gwalior",
+    "location": {
+      "latitude": 26.2183,
+      "longitude": 78.1828
+    },
+    "nearest_major_city": "Agra",
+    "distance_from_city_km": 120,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?gwalior"
+  },
+  {
+    "name": "Guwahati",
+    "location": {
+      "latitude": 26.1445,
+      "longitude": 91.7362
+    },
+    "nearest_major_city": "Shillong",
+    "distance_from_city_km": 100,
+    "weather": "moderate",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Assamese cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?guwahati"
+  },
+  {
+    "name": "Hampi",
+    "location": {
+      "latitude": 15.3350,
+      "longitude": 76.4600
+    },
+    "nearest_major_city": "Hubli",
+    "distance_from_city_km": 150,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?hampi"
+  },
+  {
+    "name": "Haridwar",
+    "location": {
+      "latitude": 29.9457,
+      "longitude": 78.1642
+    },
+    "nearest_major_city": "Dehradun",
+    "distance_from_city_km": 50,
+    "weather": "moderate",
+    "activities": ["spiritual", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?haridwar"
+  },
+  {
+    "name": "Hyderabad",
+    "location": {
+      "latitude": 17.3850,
+      "longitude": 78.4867
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 570,
+    "weather": "hot",
+    "activities": ["historical", "shopping", "family"],
+    "food": ["Hyderabadi cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?hyderabad"
+  },
+  {
+    "name": "Imphal",
+    "location": {
+      "latitude": 24.8170,
+      "longitude": 93.9368
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 500,
+    "weather": "moderate",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Manipuri cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?imphal"
+  },
+  {
+    "name": "Indore",
+    "location": {
+      "latitude": 22.7196,
+      "longitude": 75.8577
+    },
+    "nearest_major_city": "Bhopal",
+    "distance_from_city_km": 190,
+    "weather": "hot",
+    "activities": ["shopping", "cultural", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?indore"
+  },
+  {
+    "name": "Itanagar",
+    "location": {
+      "latitude": 27.0844,
+      "longitude": 93.6053
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 400,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Northeast cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?itanagar"
+  },
+  {
+    "name": "Jaipur",
+    "location": {
+      "latitude": 26.9124,
+      "longitude": 75.7873
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 280,
+    "weather": "hot",
+    "activities": ["historical", "shopping", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?jaipur"
+  },
+  {
+    "name": "Jaisalmer",
+    "location": {
+      "latitude": 26.9157,
+      "longitude": 70.9083
+    },
+    "nearest_major_city": "Jodhpur",
+    "distance_from_city_km": 280,
+    "weather": "hot",
+    "activities": ["desert", "historical", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?jaisalmer"
+  },
+  {
+    "name": "Jalandhar",
+    "location": {
+      "latitude": 31.3260,
+      "longitude": 75.5762
+    },
+    "nearest_major_city": "Ludhiana",
+    "distance_from_city_km": 60,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Punjabi cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?jalandhar"
+  },
+  {
+    "name": "Jammu",
+    "location": {
+      "latitude": 32.7266,
+      "longitude": 74.8570
+    },
+    "nearest_major_city": "Srinagar",
+    "distance_from_city_km": 300,
+    "weather": "moderate",
+    "activities": ["hills", "spiritual", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?jammu"
+  },
+  {
+    "name": "Jamshedpur",
+    "location": {
+      "latitude": 22.8046,
+      "longitude": 86.2029
+    },
+    "nearest_major_city": "Kolkata",
+    "distance_from_city_km": 250,
+    "weather": "hot",
+    "activities": ["industrial", "cultural", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?jamshedpur"
+  },
+  {
+    "name": "Jodhpur",
+    "location": {
+      "latitude": 26.2389,
+      "longitude": 73.0243
+    },
+    "nearest_major_city": "Jaipur",
+    "distance_from_city_km": 330,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?jodhpur"
+  },
+  {
+    "name": "Junagadh",
+    "location": {
+      "latitude": 21.5228,
+      "longitude": 70.4579
+    },
+    "nearest_major_city": "Rajkot",
+    "distance_from_city_km": 100,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?junagadh"
+  },
+  {
+    "name": "Kanchipuram",
+    "location": {
+      "latitude": 12.8342,
+      "longitude": 79.7036
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 70,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kanchipuram"
+  },
+  {
+    "name": "Kannur",
+    "location": {
+      "latitude": 11.8745,
+      "longitude": 75.3704
+    },
+    "nearest_major_city": "Kozhikode",
+    "distance_from_city_km": 90,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Kerala cuisine", "vegetarian", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?kannur"
+  },
+  {
+    "name": "Kanpur",
+    "location": {
+      "latitude": 26.4499,
+      "longitude": 80.3319
+    },
+    "nearest_major_city": "Lucknow",
+    "distance_from_city_km": 80,
+    "weather": "hot",
+    "activities": ["industrial", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kanpur"
+  },
+  {
+    "name": "Kargil",
+    "location": {
+      "latitude": 34.5578,
+      "longitude": 76.1262
+    },
+    "nearest_major_city": "Leh",
+    "distance_from_city_km": 200,
+    "weather": "cold",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Ladakhi cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kargil"
+  },
+  {
+    "name": "Karwar",
+    "location": {
+      "latitude": 14.8136,
+      "longitude": 74.1295
+    },
+    "nearest_major_city": "Goa",
+    "distance_from_city_km": 100,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Karnataka cuisine", "vegetarian", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?karwar"
+  },
+  {
+    "name": "Kasauli",
+    "location": {
+      "latitude": 30.9045,
+      "longitude": 76.9657
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 70,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kasauli"
+  },
+  {
+    "name": "Kasol",
+    "location": {
+      "latitude": 32.0122,
+      "longitude": 77.3196
+    },
+    "nearest_major_city": "Manali",
+    "distance_from_city_km": 70,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kasol"
+  },
+  {
+    "name": "Katra",
+    "location": {
+      "latitude": 32.9915,
+      "longitude": 74.9318
+    },
+    "nearest_major_city": "Jammu",
+    "distance_from_city_km": 50,
+    "weather": "moderate",
+    "activities": ["spiritual", "hills", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?katra"
+  },
+  {
+    "name": "Kavaratti",
+    "location": {
+      "latitude": 10.5626,
+      "longitude": 72.6369
+    },
+    "nearest_major_city": "Kochi",
+    "distance_from_city_km": 400,
+    "weather": "tropical",
+    "activities": ["beaches", "adventure", "family"],
+    "food": ["Lakshadweep cuisine", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?kavaratti"
+  },
+  {
+    "name": "Kaziranga National Park",
+    "location": {
+      "latitude": 26.5735,
+      "longitude": 93.1715
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 200,
+    "weather": "moderate",
+    "activities": ["wildlife", "adventure", "family"],
+    "food": ["Assamese cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kaziranga"
+  },
+  {
+    "name": "Kedarnath",
+    "location": {
+      "latitude": 30.7346,
+      "longitude": 79.0669
+    },
+    "nearest_major_city": "Dehradun",
+    "distance_from_city_km": 250,
+    "weather": "cold",
+    "activities": ["spiritual", "hills", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kedarnath"
+  },
+  {
+    "name": "Khajuraho",
+    "location": {
+      "latitude": 24.8315,
+      "longitude": 79.9334
+    },
+    "nearest_major_city": "Jhansi",
+    "distance_from_city_km": 180,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?khajuraho"
+  },
+  {
+    "name": "Khandala",
+    "location": {
+      "latitude": 18.7500,
+      "longitude": 73.3833
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 100,
+    "weather": "moderate",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?khandala"
+  },
+  {
+    "name": "Kodaikanal",
+    "location": {
+      "latitude": 10.2381,
+      "longitude": 77.4892
+    },
+    "nearest_major_city": "Madurai",
+    "distance_from_city_km": 120,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kodaikanal"
+  },
+  {
+    "name": "Kohima",
+    "location": {
+      "latitude": 25.6751,
+      "longitude": 94.1086
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 300,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Northeast cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kohima"
+  },
+  {
+    "name": "Kolkata",
+    "location": {
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    "nearest_major_city": "Howrah",
+    "distance_from_city_km": 10,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Bengali cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kolkata"
+  },
+  {
+    "name": "Kollam",
+    "location": {
+      "latitude": 8.8932,
+      "longitude": 76.6141
+    },
+    "nearest_major_city": "Thiruvananthapuram",
+    "distance_from_city_km": 70,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Kerala cuisine", "vegetarian", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?kollam"
+  },
+  {
+    "name": "Konark",
+    "location": {
+      "latitude": 19.8974,
+      "longitude": 86.1141
+    },
+    "nearest_major_city": "Puri",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Odia cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?konark"
+  },
+  {
+    "name": "Kottayam",
+    "location": {
+      "latitude": 9.5916,
+      "longitude": 76.5222
+    },
+    "nearest_major_city": "Kochi",
+    "distance_from_city_km": 70,
+    "weather": "tropical",
+    "activities": ["backwaters", "cultural", "family"],
+    "food": ["Kerala cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kottayam"
+  },
+  {
+    "name": "Kullu",
+    "location": {
+      "latitude": 31.9578,
+      "longitude": 77.1094
+    },
+    "nearest_major_city": "Manali",
+    "distance_from_city_km": 40,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kullu"
+  },
+  {
+    "name": "Kumbakonam",
+    "location": {
+      "latitude": 10.9595,
+      "longitude": 79.3871
+    },
+    "nearest_major_city": "Thanjavur",
+    "distance_from_city_km": 40,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?kumbakonam"
+  },
+  {
+    "name": "Leh",
+    "location": {
+      "latitude": 34.1526,
+      "longitude": 77.5771
+    },
+    "nearest_major_city": "Srinagar",
+    "distance_from_city_km": 400,
+    "weather": "cold",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Ladakhi cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?leh"
+  },
+  {
+    "name": "Lonavala",
+    "location": {
+      "latitude": 18.7500,
+      "longitude": 73.4167
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 90,
+    "weather": "moderate",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?lonavala"
+  },
+  {
+    "name": "Lucknow",
+    "location": {
+      "latitude": 26.8467,
+      "longitude": 80.9462
+    },
+    "nearest_major_city": "Kanpur",
+    "distance_from_city_km": 80,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Awadhi cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?lucknow"
+  },
+  {
+    "name": "Ludhiana",
+    "location": {
+      "latitude": 30.9010,
+      "longitude": 75.8573
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 100,
+    "weather": "hot",
+    "activities": ["industrial", "cultural", "family"],
+    "food": ["Punjabi cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ludhiana"
+  },
+  {
+    "name": "Madurai",
+    "location": {
+      "latitude": 9.9252,
+      "longitude": 78.1198
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 450,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?madurai"
+  },
+  {
+    "name": "Mahabalipuram",
+    "location": {
+      "latitude": 12.6208,
+      "longitude": 80.1945
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 60,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mahabalipuram"
+  },
+  {
+    "name": "Mahabaleshwar",
+    "location": {
+      "latitude": 17.9239,
+      "longitude": 73.6586
+    },
+    "nearest_major_city": "Pune",
+    "distance_from_city_km": 120,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mahabaleshwar"
+  },
+  {
+    "name": "Manali",
+    "location": {
+      "latitude": 32.2396,
+      "longitude": 77.1887
+    },
+    "nearest_major_city": "Kullu",
+    "distance_from_city_km": 40,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?manali"
+  },
+  {
+    "name": "Mandu",
+    "location": {
+      "latitude": 22.3311,
+      "longitude": 75.3807
+    },
+    "nearest_major_city": "Indore",
+    "distance_from_city_km": 100,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mandu"
+  },
+  {
+    "name": "Mangalore",
+    "location": {
+      "latitude": 12.9141,
+      "longitude": 74.8560
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 350,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Karnataka cuisine", "vegetarian", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?mangalore"
+  },
+  {
+    "name": "Matheran",
+    "location": {
+      "latitude": 18.9822,
+      "longitude": 73.2654
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 90,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?matheran"
+  },
+  {
+    "name": "Mathura",
+    "location": {
+      "latitude": 27.4924,
+      "longitude": 77.6737
+    },
+    "nearest_major_city": "Agra",
+    "distance_from_city_km": 60,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mathura"
+  },
+  {
+    "name": "Meerut",
+    "location": {
+      "latitude": 28.9845,
+      "longitude": 77.7064
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 70,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?meerut"
+  },
+  {
+    "name": "Mirik",
+    "location": {
+      "latitude": 26.8871,
+      "longitude": 88.1871
+    },
+    "nearest_major_city": "Siliguri",
+    "distance_from_city_km": 50,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Nepali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mirik"
+  },
+  {
+    "name": "Moradabad",
+    "location": {
+      "latitude": 28.8389,
+      "longitude": 78.7736
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 160,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?moradabad"
+  },
+  {
+    "name": "Mount Abu",
+    "location": {
+      "latitude": 24.5925,
+      "longitude": 72.7156
+    },
+    "nearest_major_city": "Jaipur",
+    "distance_from_city_km": 500,
+    "weather": "cool",
+    "activities": ["hills", "lakes", "spiritual", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mountabu"
+  },
+  {
+    "name": "Munnar",
+    "location": {
+      "latitude": 10.0889,
+      "longitude": 77.0595
+    },
+    "nearest_major_city": "Kochi",
+    "distance_from_city_km": 130,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Kerala cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?munnar"
+  },
+  {
+    "name": "Mumbai",
+    "location": {
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    "nearest_major_city": "Thane",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["shopping", "cultural", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mumbai"
+  },
+  {
+    "name": "Mussoorie",
+    "location": {
+      "latitude": 30.4598,
+      "longitude": 78.0644
+    },
+    "nearest_major_city": "Dehradun",
+    "distance_from_city_km": 35,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mussoorie"
+  },
+  {
+    "name": "Mysore",
+    "location": {
+      "latitude": 12.2958,
+      "longitude": 76.6394
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 150,
+    "weather": "moderate",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?mysore"
+  },
+  {
+    "name": "Nagarhole National Park",
+    "location": {
+      "latitude": 12.0941,
+      "longitude": 76.1570
+    },
+    "nearest_major_city": "Mysore",
+    "distance_from_city_km": 90,
+    "weather": "moderate",
+    "activities": ["wildlife", "adventure", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?nagarhole"
+  },
+  {
+    "name": "Nagpur",
+    "location": {
+      "latitude": 21.1458,
+      "longitude": 79.0882
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 800,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?nagpur"
+  },
+  {
+    "name": "Nashik",
+    "location": {
+      "latitude": 19.9975,
+      "longitude": 73.7898
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 170,
+    "weather": "moderate",
+    "activities": ["spiritual", "cultural", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?nashik"
+  },
+  {
+    "name": "Nainital",
+    "location": {
+      "latitude": 29.3803,
+      "longitude": 79.4636
+    },
+    "nearest_major_city": "Dehradun",
+    "distance_from_city_km": 300,
+    "weather": "cool",
+    "activities": ["hills", "lakes", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?nainital"
+  },
+  {
+    "name": "Nalanda",
+    "location": {
+      "latitude": 25.1351,
+      "longitude": 85.4449
+    },
+    "nearest_major_city": "Patna",
+    "distance_from_city_km": 90,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Bihari cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?nalanda"
+  },
+  {
+    "name": "Nandi Hills",
+    "location": {
+      "latitude": 13.3700,
+      "longitude": 77.6833
+    },
+    "nearest_major_city": "Bangalore",
+    "distance_from_city_km": 60,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?nandihills"
+  },
+  {
+    "name": "Neemrana",
+    "location": {
+      "latitude": 27.9881,
+      "longitude": 76.3875
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 120,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?neemrana"
+  },
+  {
+    "name": "Ooty",
+    "location": {
+      "latitude": 11.4102,
+      "longitude": 76.6950
+    },
+    "nearest_major_city": "Coimbatore",
+    "distance_from_city_km": 90,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ooty"
+  },
+  {
+    "name": "Orchha",
+    "location": {
+      "latitude": 25.3500,
+      "longitude": 78.6400
+    },
+    "nearest_major_city": "Jhansi",
+    "distance_from_city_km": 20,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?orchha"
+  },
+  {
+    "name": "Pachmarhi",
+    "location": {
+      "latitude": 22.4667,
+      "longitude": 78.4333
+    },
+    "nearest_major_city": "Bhopal",
+    "distance_from_city_km": 200,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?pachmarhi"
+  },
+  {
+    "name": "Panaji",
+    "location": {
+      "latitude": 15.4909,
+      "longitude": 73.8278
+    },
+    "nearest_major_city": "Goa",
+    "distance_from_city_km": 0,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Goan cuisine", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?panaji"
+  },
+  {
+    "name": "Patna",
+    "location": {
+      "latitude": 25.5941,
+      "longitude": 85.1376
+    },
+    "nearest_major_city": "Kolkata",
+    "distance_from_city_km": 500,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Bihari cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?patna"
+  },
+  {
+    "name": "Pondicherry",
+    "location": {
+      "latitude": 11.9139,
+      "longitude": 79.8145
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 160,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["French cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?pondicherry"
+  },
+  {
+    "name": "Port Blair",
+    "location": {
+      "latitude": 11.6234,
+      "longitude": 92.7265
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 1200,
+    "weather": "tropical",
+    "activities": ["beaches", "adventure", "family"],
+    "food": ["seafood", "Indian cuisine"],
+    "image_url": "https://source.unsplash.com/1600x900/?portblair"
+  },
+  {
+    "name": "Prayagraj (Allahabad)",
+    "location": {
+      "latitude": 25.4358,
+      "longitude": 81.8463
+    },
+    "nearest_major_city": "Varanasi",
+    "distance_from_city_km": 120,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?prayagraj"
+  },
+  {
+    "name": "Puri",
+    "location": {
+      "latitude": 19.8135,
+      "longitude": 85.8312
+    },
+    "nearest_major_city": "Bhubaneswar",
+    "distance_from_city_km": 60,
+    "weather": "hot",
+    "activities": ["beaches", "spiritual", "family"],
+    "food": ["Odia cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?puri"
+  },
+  {
+    "name": "Pune",
+    "location": {
+      "latitude": 18.5204,
+      "longitude": 73.8567
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 150,
+    "weather": "moderate",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Maharashtrian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?pune"
+  },
+  {
+    "name": "Pushkar",
+    "location": {
+      "latitude": 26.4897,
+      "longitude": 74.5511
+    },
+    "nearest_major_city": "Ajmer",
+    "distance_from_city_km": 15,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?pushkar"
+  },
+  {
+    "name": "Raipur",
+    "location": {
+      "latitude": 21.2514,
+      "longitude": 73.1812
+    },
+    "nearest_major_city": "Bhilai",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Chhattisgarhi cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?raipur"
+  },
+  {
+    "name": "Rajahmundry",
+    "location": {
+      "latitude": 16.9848,
+      "longitude": 81.7870
+    },
+    "nearest_major_city": "Vijayawada",
+    "distance_from_city_km": 180,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Andhra cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?rajahmundry"
+  },
+  {
+    "name": "Rajgir",
+    "location": {
+      "latitude": 25.0264,
+      "longitude": 85.4208
+    },
+    "nearest_major_city": "Patna",
+    "distance_from_city_km": 100,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Bihari cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?rajgir"
+  },
+  {
+    "name": "Rajkot",
+    "location": {
+      "latitude": 22.3039,
+      "longitude": 70.8022
+    },
+    "nearest_major_city": "Ahmedabad",
+    "distance_from_city_km": 220,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?rajkot"
+  },
+  {
+    "name": "Rameswaram",
+    "location": {
+      "latitude": 9.2882,
+      "longitude": 79.3127
+    },
+    "nearest_major_city": "Madurai",
+    "distance_from_city_km": 170,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?rameswaram"
+  },
+  {
+    "name": "Ranchi",
+    "location": {
+      "latitude": 23.3441,
+      "longitude": 85.3096
+    },
+    "nearest_major_city": "Kolkata",
+    "distance_from_city_km": 400,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Jharkhand cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ranchi"
+  },
+  {
+    "name": "Ranikhet",
+    "location": {
+      "latitude": 29.6400,
+      "longitude": 79.4322
+    },
+    "nearest_major_city": "Nainital",
+    "distance_from_city_km": 60,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ranikhet"
+  },
+  {
+    "name": "Ranthambore National Park",
+    "location": {
+      "latitude": 26.0167,
+      "longitude": 76.5000
+    },
+    "nearest_major_city": "Jaipur",
+    "distance_from_city_km": 180,
+    "weather": "hot",
+    "activities": ["wildlife", "adventure", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ranthambore"
+  },
+  {
+    "name": "Rishikesh",
+    "location": {
+      "latitude": 30.0869,
+      "longitude": 78.2676
+    },
+    "nearest_major_city": "Dehradun",
+    "distance_from_city_km": 25,
+    "weather": "moderate",
+    "activities": ["spiritual", "adventure", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?rishikesh"
+  },
+  {
+    "name": "Rohtang Pass",
+    "location": {
+      "latitude": 32.3740,
+      "longitude": 77.2450
+    },
+    "nearest_major_city": "Manali",
+    "distance_from_city_km": 50,
+    "weather": "cold",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?rohtangpass"
+  },
+  {
+    "name": "Sanchi",
+    "location": {
+      "latitude": 23.4809,
+      "longitude": 77.7396
+    },
+    "nearest_major_city": "Bhopal",
+    "distance_from_city_km": 50,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?sanchi"
+  },
+  {
+    "name": "Shillong",
+    "location": {
+      "latitude": 25.5788,
+      "longitude": 91.8933
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 100,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Northeast cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?shillong"
+  },
+  {
+    "name": "Shimla",
+    "location": {
+      "latitude": 31.1048,
+      "longitude": 77.1734
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 120,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?shimla"
+  },
+  {
+    "name": "Silchar",
+    "location": {
+      "latitude": 24.8333,
+      "longitude": 92.7789
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 300,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["Northeast cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?silchar"
+  },
+  {
+    "name": "Siliguri",
+    "location": {
+      "latitude": 26.7271,
+      "longitude": 88.3953
+    },
+    "nearest_major_city": "Kolkata",
+    "distance_from_city_km": 550,
+    "weather": "moderate",
+    "activities": ["hills", "cultural", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?siliguri"
+  },
+  {
+    "name": "Sivasagar",
+    "location": {
+      "latitude": 26.9849,
+      "longitude": 94.6378
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 350,
+    "weather": "moderate",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Assamese cuisine", "vegetarian", "non-vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?sivasagar"
+  },
+  {
+    "name": "Somnath",
+    "location": {
+      "latitude": 20.8874,
+      "longitude": 70.4021
+    },
+    "nearest_major_city": "Junagadh",
+    "distance_from_city_km": 80,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?somnath"
+  },
+  {
+    "name": "Spiti Valley",
+    "location": {
+      "latitude": 32.1722,
+      "longitude": 78.0422
+    },
+    "nearest_major_city": "Manali",
+    "distance_from_city_km": 200,
+    "weather": "cold",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Himachali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?spitivalley"
+  },
+  {
+    "name": "Srinagar",
+    "location": {
+      "latitude": 34.0837,
+      "longitude": 74.7973
+    },
+    "nearest_major_city": "Jammu",
+    "distance_from_city_km": 300,
+    "weather": "moderate",
+    "activities": ["lakes", "hills", "family"],
+    "food": ["Kashmiri cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?srinagar"
+  },
+  {
+    "name": "Sundarbans",
+    "location": {
+      "latitude": 21.9497,
+      "longitude": 88.9401
+    },
+    "nearest_major_city": "Kolkata",
+    "distance_from_city_km": 100,
+    "weather": "tropical",
+    "activities": ["wildlife", "adventure", "family"],
+    "food": ["Bengali cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?sundarbans"
+  },
+  {
+    "name": "Surat",
+    "location": {
+      "latitude": 21.1702,
+      "longitude": 72.8311
+    },
+    "nearest_major_city": "Mumbai",
+    "distance_from_city_km": 250,
+    "weather": "hot",
+    "activities": ["shopping", "cultural", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?surat"
+  },
+  {
+    "name": "Tawang",
+    "location": {
+      "latitude": 27.5867,
+      "longitude": 91.8651
+    },
+    "nearest_major_city": "Guwahati",
+    "distance_from_city_km": 500,
+    "weather": "cold",
+    "activities": ["hills", "spiritual", "family"],
+    "food": ["Northeast cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?tawang"
+  },
+  {
+    "name": "Thanjavur",
+    "location": {
+      "latitude": 10.7867,
+      "longitude": 79.1378
+    },
+    "nearest_major_city": "Trichy",
+    "distance_from_city_km": 60,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?thanjavur"
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "location": {
+      "latitude": 8.5241,
+      "longitude": 76.9366
+    },
+    "nearest_major_city": "Kochi",
+    "distance_from_city_km": 200,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Kerala cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?thiruvananthapuram"
+  },
+  {
+    "name": "Thrissur",
+    "location": {
+      "latitude": 10.5276,
+      "longitude": 76.2144
+    },
+    "nearest_major_city": "Kochi",
+    "distance_from_city_km": 80,
+    "weather": "tropical",
+    "activities": ["cultural", "historical", "family"],
+    "food": ["Kerala cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?thrissur"
+  },
+  {
+    "name": "Tiruchirappalli",
+    "location": {
+      "latitude": 10.7905,
+      "longitude": 78.7047
+    },
+    "nearest_major_city": "Madurai",
+    "distance_from_city_km": 150,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?tiruchirappalli"
+  },
+  {
+    "name": "Tirupati",
+    "location": {
+      "latitude": 13.6288,
+      "longitude": 79.4192
+    },
+    "nearest_major_city": "Chennai",
+    "distance_from_city_km": 150,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["Andhra cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?tirupati"
+  },
+  {
+    "name": "Udaipur",
+    "location": {
+      "latitude": 24.5854,
+      "longitude": 73.7125
+    },
+    "nearest_major_city": "Jaipur",
+    "distance_from_city_km": 400,
+    "weather": "hot",
+    "activities": ["lakes", "historical", "family"],
+    "food": ["Rajasthani cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?udaipur"
+  },
+  {
+    "name": "Udupi",
+    "location": {
+      "latitude": 13.3409,
+      "longitude": 74.7421
+    },
+    "nearest_major_city": "Mangalore",
+    "distance_from_city_km": 60,
+    "weather": "tropical",
+    "activities": ["beaches", "spiritual", "family"],
+    "food": ["Karnataka cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?udupi"
+  },
+  {
+    "name": "Ujjain",
+    "location": {
+      "latitude": 23.1793,
+      "longitude": 75.7849
+    },
+    "nearest_major_city": "Indore",
+    "distance_from_city_km": 60,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?ujjain"
+  },
+  {
+    "name": "Vadodara",
+    "location": {
+      "latitude": 22.3072,
+      "longitude": 73.1812
+    },
+    "nearest_major_city": "Ahmedabad",
+    "distance_from_city_km": 110,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Gujarati cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?vadodara"
+  },
+  {
+    "name": "Varanasi",
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "nearest_major_city": "Prayagraj (Allahabad)",
+    "distance_from_city_km": 120,
+    "weather": "hot",
+    "activities": ["spiritual", "historical", "family"],
+    "food": ["North Indian cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?varanasi"
+  },
+  {
+    "name": "Vasco da Gama",
+    "location": {
+      "latitude": 15.3860,
+      "longitude": 73.8158
+    },
+    "nearest_major_city": "Goa",
+    "distance_from_city_km": 30,
+    "weather": "tropical",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Goan cuisine", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?vasco"
+  },
+  {
+    "name": "Vijayawada",
+    "location": {
+      "latitude": 16.5062,
+      "longitude": 80.6480
+    },
+    "nearest_major_city": "Guntur",
+    "distance_from_city_km": 30,
+    "weather": "hot",
+    "activities": ["historical", "cultural", "family"],
+    "food": ["Andhra cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?vijayawada"
+  },
+  {
+    "name": "Visakhapatnam",
+    "location": {
+      "latitude": 17.6868,
+      "longitude": 83.2185
+    },
+    "nearest_major_city": "Vijayawada",
+    "distance_from_city_km": 350,
+    "weather": "hot",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Andhra cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?visakhapatnam"
+  },
+  {
+    "name": "Yercaud",
+    "location": {
+      "latitude": 11.7800,
+      "longitude": 78.2036
+    },
+    "nearest_major_city": "Salem",
+    "distance_from_city_km": 30,
+    "weather": "cool",
+    "activities": ["hills", "adventure", "family"],
+    "food": ["Tamil cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?yercaud"
+  }
+]
