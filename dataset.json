@@ -1936,4 +1936,69 @@
     "food": ["Tamil cuisine", "vegetarian"],
     "image_url": "https://source.unsplash.com/1600x900/?yercaud"
   }
+  {
+    "name": "Visakhapatnam",
+    "location": {
+      "latitude": 17.6868,
+      "longitude": 83.2185
+    },
+    "nearest_major_city": "Vijayawada",
+    "distance_from_city_km": 350,
+    "weather": "hot",
+    "activities": ["beaches", "cultural", "family"],
+    "food": ["Andhra cuisine", "vegetarian"],
+    "image_url": "https://source.unsplash.com/1600x900/?visakhapatnam"
+  },
+  {
+    "name": "Jaipur",
+    "location": {
+      "latitude": 26.9124,
+      "longitude": 75.7873
+    },
+    "nearest_major_city": "Delhi",
+    "distance_from_city_km": 280,
+    "weather": "warm",
+    "activities": ["heritage", "shopping", "photography"],
+    "food": ["Rajasthani thali", "sweets"],
+    "image_url": "https://source.unsplash.com/1600x900/?jaipur"
+  },
+  {
+    "name": "Kochi",
+    "location": {
+      "latitude": 9.9312,
+      "longitude": 76.2673
+    },
+    "nearest_major_city": "Thiruvananthapuram",
+    "distance_from_city_km": 200,
+    "weather": "humid",
+    "activities": ["backwaters", "boating", "food trails"],
+    "food": ["Kerala cuisine", "seafood"],
+    "image_url": "https://source.unsplash.com/1600x900/?kochi"
+  },
+  {
+    "name": "Varanasi",
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "nearest_major_city": "Lucknow",
+    "distance_from_city_km": 300,
+    "weather": "warm",
+    "activities": ["spiritual", "ghats", "heritage"],
+    "food": ["Banarasi sweets", "chaat"],
+    "image_url": "https://source.unsplash.com/1600x900/?varanasi"
+  },
+  {
+    "name": "Manali",
+    "location": {
+      "latitude": 32.2432,
+      "longitude": 77.1892
+    },
+    "nearest_major_city": "Chandigarh",
+    "distance_from_city_km": 310,
+    "weather": "cold",
+    "activities": ["skiing", "trekking", "snow sports"],
+    "food": ["Himachali cuisine"],
+    "image_url": "https://source.unsplash.com/1600x900/?manali"
+  },
 ]
